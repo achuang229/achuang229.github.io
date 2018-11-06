@@ -44,7 +44,7 @@
 
 			<h4>
 			<a href="index.htm">
-  				<img src="home.png" alt="Return to Home" style="width:52px;height:42px;border:0;">
+  				<img src="home.PNG" alt="Return to Home" style="width:52px;height:42px;border:0;">
 			</a>
 			</h4>
 
@@ -72,7 +72,7 @@
 		<br /><br />
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although not included in a published article, in order to visualize the cell-material interaction for this research, I took initiative in carrying out the stress analysis via a physics simulation engine, COMSOL Multiphysics. To further elaborate, below are a few example images 
 		(Fig. 1 through 6) from the results of this analysis, as well as the relevant information in tables adjacent to them. The goal was to run simulation on an assembly that is made up of two layers with different mechanical properties, one representing cells, and the other an artificially formulated substrate from chemical reagents. 
-		The circular and rectangular were among the geometries chosen because they could best simplify representations of the observed cellular shapes that we were investigating. A temperature drop from 30 to 25 degrees on centigrade scale was assigned to the simulation’s environment.
+		The circular and rectangular were among the geometries chosen because they could best simplify representations of the observed cellular shapes that we were investigating. A temperature drop from 30 to 25 degrees on centigrade scale was assigned to the simulationâ€™s environment.
 
 		</font>
 		</p>
@@ -409,7 +409,7 @@
 		<br /><br/>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		I used Baxter, an industrial robot built by Rethink Robotics, to run the relevant tests. As a beginner, I researched on protocols to establish digital communication through TCP/IP in Python. My goal was to devise reciprocal responses simultaneously exchanged between Baxter and the end user from another terminal. 
-		I was able to execute a number of trajectory algorithms through Baxter’s arms, then measure and collect physical coordinates for the respective joints from Baxter’s feedback. This would help with better visualizing the controller parameters in real cases, and more accurately design patient-specific customizations.     
+		I was able to execute a number of trajectory algorithms through Baxterâ€™s arms, then measure and collect physical coordinates for the respective joints from Baxterâ€™s feedback. This would help with better visualizing the controller parameters in real cases, and more accurately design patient-specific customizations.     
 
 
 		</font>
