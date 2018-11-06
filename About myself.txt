@@ -44,7 +44,7 @@
 
 			<h4>
 			<a href="index.htm">
-  				<img src="home.png" alt="Return to Home" style="width:52px;height:42px;border:0;">
+  				<img src="home.PNG" alt="Return to Home" style="width:52px;height:42px;border:0;">
 			</a>
 			</h4>
 
