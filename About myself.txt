@@ -84,7 +84,7 @@
 		
 
 		<p style="padding-left:2.55cm">
-		<img src="China and Taiwan.png" alt="China and Taiwan" style="width:540px;height:415px;border:0;padding-left:0.05cm;padding-top:1cm;" align="left"; hspace="2" />
+		<img src="China and Taiwan.PNG" alt="China and Taiwan" style="width:540px;height:415px;border:0;padding-left:0.05cm;padding-top:1cm;" align="left"; hspace="2" />
 		<img src="Kaohsiung.jpg" alt="Kaohsiung" style="width:510px;height:415px;border:0;padding-top:0.98cm;" hspace="2" />
 		<img src="Shanghai.jpg" alt="Shanghai" style="width:730px;height:415px;border:0;" hspace="2" />
 		<img src="Taiwan flag.jpg" alt="Taiwan flag" style="width:320px;height:415px;border:0;" />
@@ -94,9 +94,9 @@
 		<p style="padding-left:2.55cm">
 		<img src="Chicago.jpg" alt="Chicago" style="width:1058px;height:415px;border:0;" align="left"; hspace="2" />
 		<img src="UIUC.jpg" alt="UIUC" style="width:450px;height:415px;border:0;padding-top:0.3cm;" align="left"; hspace="2" />
-		<img src="US.png" alt="US" style="width:600px;height:415px;border:0;padding-top:0.3cm;" align="left"; hspace="6" />
+		<img src="US.PNG" alt="US" style="width:600px;height:415px;border:0;padding-top:0.3cm;" align="left"; hspace="6" />
 		<img src="University of Pittsburgh.jpg" alt="University of Pittsburgh" style="width:525px;height:415px;border:0;padding-top:0.3cm;" align="left"; hspace="2" />
-		<img src="Pittsburgh.JPG" alt="Pittsburgh" style="width:530px;height:415px;border:0;padding-top:0.3cm;">
+		<img src="Pittsburgh.jpg" alt="Pittsburgh" style="width:530px;height:415px;border:0;padding-top:0.3cm;">
 	 	</p>
 
 
