@@ -57,9 +57,9 @@
 		</p>
 		<br />
 		<p>
-		<img src="img/Homepage robots 1.PNG" alt="homepage robots 1" style="width:500px;height:300px;border:0;" align="left" />
-		<img src="img/Homepage robots 2.PNG" alt="homepage robots 2" style="width:242.5px;height:300px;border:0;" align="left" hspace="2"  />
-		<img src="img/Homepage robots 3.PNG" alt="homepage robots 3" style="width:242.5px;height:300px;border:0;" hspace="2.5" />
+		<img src="Homepage robots 1.PNG" alt="homepage robots 1" style="width:500px;height:300px;border:0;" align="left" />
+		<img src="Homepage robots 2.PNG" alt="homepage robots 2" style="width:242.5px;height:300px;border:0;" align="left" hspace="2"  />
+		<img src="Homepage robots 3.PNG" alt="homepage robots 3" style="width:242.5px;height:300px;border:0;" hspace="2.5" />
 		<p>
 	</div>
 
