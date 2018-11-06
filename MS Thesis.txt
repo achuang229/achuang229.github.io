@@ -43,7 +43,7 @@
 
 			<h4>
 			<a href="index.htm">
-  				<img src="home.png" alt="Return to Home" style="width:52px;height:42px;border:0;">
+  				<img src="home.PNG" alt="Return to Home" style="width:52px;height:42px;border:0;">
 			</a>
 			</h4>
 
@@ -79,11 +79,11 @@
 		I am researching about the mechanobiology that affects and governs their development, enlargement, as well as rupture. Solving the aneurysm puzzle is an engineering one, much like calculating when a damaged building will likely collapse. My primary interest lies in understanding how the heterogeneity found in cellular architecture correlates with the mechanical properties observed from a cerebral aneurysm wall.
 		The ultimate goal is to develop a formula or algorithm that physicians could use to more accurately determine the rupture risk. 
 		<br /><br />
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a brief overview, collagen and smooth muscle cells are the key elements that maintain the wall’s structural integrity, while the elastin layer facilitates its flexibility to accommodate pulsatile blood flow. In a large percentage of aneurysms, 
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a brief overview, collagen and smooth muscle cells are the key elements that maintain the wallâ€™s structural integrity, while the elastin layer facilitates its flexibility to accommodate pulsatile blood flow. In a large percentage of aneurysms, 
 		the endothelium is missing, which is the inner-most layer that protects the arterial wall from being directly in contact with blood.  Conventionally, we think that without such protection, inflammation takes place, causing subsequent disturbances in the adjacent arterial layers and mural contents. 
 		Yet, because of the unpredictable nature associated with rupture, it has been a challenge to fully examine the transitional change in pathology, which occurs at the immediate instants before and after rupture takes place. For this reason, what we know so far remains a conjecture.	
 		<br /><br />
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, during assessments on the aneurysmal wall’s strength, there is a fundamental gap in our knowledge about the mechanism, by which the abnormal hemodynamics within the aneurysm sac can lead to a breakdown in the normal process of collagen renewal and remodeling. 
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, during assessments on the aneurysmal wallâ€™s strength, there is a fundamental gap in our knowledge about the mechanism, by which the abnormal hemodynamics within the aneurysm sac can lead to a breakdown in the normal process of collagen renewal and remodeling. 
 		Consequently, under hemodynamic stress, an aneurysm would be left vulnerable to mechanical failure. There is no single or direct indicator that can precisely predict the likelihood of such failure. Although aneurysm size is widely used as a measure for evaluating rupture risk, 
 		the ultimate size at time of rupture varies drastically between individuals.
 		<br /><br />
