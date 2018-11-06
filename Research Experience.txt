@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Undergrad Research</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="mainresearchexperience.css">
+
+</head>
+
+<body>
+
+	</div>
+	<div class="container">
+
+		<div class="nav">
+  		<h2>My Background</h2><br />
+
+			<style>
+				li a:hover{
+					   background-color:#98AFC7;
+					  }
+
+  				li a:link {
+          				   text-decoration: none;
+	 				  }
+			</style>
+
+  			<ul>
+  				<li><a href="About myself.htm">About myself</a></li><br />
+  				<li><a href="Education.htm">Education</a></li><br />
+				<li><a href="MS Thesis.htm">MS Thesis</a></li><br />
+  				<li><a href="Industry Experience.htm">Industry Experience</a></li><br />
+  				<li><a href="Research Experience.htm">Undergrad Research</a></li><br />
+				<li><a href="https://www.dropbox.com/s/ggtj5u32qtgiauc/Resume_dropbox.pdf?dl=0"target="_blank">Resume</a></li>
+			</ul>
+
+			<style>
+				h4 a:hover{
+					   box-shadow:  0 0 10px #000;
+					  }
+			</style>			
+
+			<h4>
+			<a href="index.htm">
+  				<img src="home.png" alt="Return to Home" style="width:52px;height:42px;border:0;">
+			</a>
+			</h4>
+
+		
+
+  	  </div>
+
+	  <div class="main">  
+		<h1>Undergraduate Research Experience</h1>
+
+		<h5 style="padding-left:2.2cm;font-family:Agency FB">
+		<font size="6">MEMS/Micromechanics Laboratory</font>
+		<hr style="max-width:1000px;min-width: 1000px;">
+		</h5>
+		<br />
+		<p style="padding-left:2.2cm;max-width:1000px;min-width: 1000px;">
+		<font size="4">
+
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As an undergraduate research assistant, I was involved with FEA analysis, fabricating biomaterials to induce desirable mechanical properties, data collection and management, as well as reconstructing 3D cellular geometries via processing 2D stacked images. 
+		From this experience, the relevant skills that I used and learned include, but are not limited to, experiments design, information gathering with statistics, imaging with advanced microscope, and practices in a biochemical laboratory.
+		<br /><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During my time in the lab, I was able to co-author a published scientific paper, the details of which can be found through <a href="https://www.ncbi.nlm.nih.gov/pubmed/25284029"target="_blank">this linkage</a>. In short, we were interested in investigating the mechanism by which cell functionalities can be regulated by substrate stiffness 
+		that they are adhered to in 2D, or surrounded by in 3D. The preparation process of the substrates allowed us to customize their mechanical moduli with flexibility as desired. For experiments, we used ECM functionalized compliant PA gels to illustrate cell spreading and focal adhesions. Modulation of cellular phenotype is important 
+		because it has implications in human diseases, i.e. cancers. The finding can lead us to better understand the contributing factors in cell proliferation and metastasis. 
+		<br /><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although not included in a published article, in order to visualize the cell-material interaction for this research, I took initiative in carrying out the stress analysis via a physics simulation engine, COMSOL Multiphysics. To further elaborate, below are a few example images 
+		(Fig. 1 through 6) from the results of this analysis, as well as the relevant information in tables adjacent to them. The goal was to run simulation on an assembly that is made up of two layers with different mechanical properties, one representing cells, and the other an artificially formulated substrate from chemical reagents. 
+		The circular and rectangular were among the geometries chosen because they could best simplify representations of the observed cellular shapes that we were investigating. A temperature drop from 30 to 25 degrees on centigrade scale was assigned to the simulation’s environment.
+
+		</font>
+		</p>
+		<br /><br />
+		<h6>
+			<style>
+			table {
+   			font-family: arial, sans-serif;
+			font-size:15px;
+			max-width: 500px;
+    			border-collapse: collapse;
+    			width: 55%;
+			       }
+
+			td, th {
+    			border: 2px solid #000000;
+    			
+    			padding: 5px;
+				}
+			tr:nth-child(2) {
+    				background-color: #A6ACAF;
+				}
+			tr:nth-child(1) {
+				background-color: #ffcc66;
+				}
+			tr:nth-child(5) {
+				background-color: #ffcc66;
+				}
+			tr:nth-child(6) {
+				background-color: #A6ACAF;
+				}
+
+			</style>
+
+			<table  align="left">
+  			<tr>
+    			<td colspan="3" align="middle" style=" font-weight:bold;font-family:Georgia;font-size:17px;">Dimensions for Circular Assembly</td>
+  			</tr>
+  			<tr>
+    			<th align="left"></th>
+    			<th align="middle">Radius (micron)</th>
+    			<th align="middle">Height (micron)</th>
+  			</tr>
+  			<tr>
+    			<td>Coating / Cells Layer</td>
+    			<td>50</td>
+    			<td>30</td>
+  			</tr>
+  			<tr>
+    			<td>Substrate Layer</td>
+    			<td>50</td>
+    			<td>6</td>
+			</tr>
+
+  			<tr>
+    			<td colspan="3" align="middle" style=" font-weight:bold;font-family:Georgia;font-size:17px;">Meshing Properties for Circular Assembly</td>
+  			</tr>
+  			<tr>
+    			<th align="left">Meshing Property</th>
+    			<th align="left">Value</th>
+    			<th align="left">Unit</th>
+  			</tr>
+  			<tr>
+    			<td>Predefined Element Size</td>
+    			<td>Extra Fine</td>
+    			<td>N/A</td>
+  			</tr>
+  			<tr>
+    			<td>Maximum Element Size</td>
+    			<td>7</td>
+    			<td>micron</td>
+  			</tr>
+  			<tr>
+    			<td>Minimum Element Size</td>
+    			<td>0.3</td>
+    			<td>micron</td>
+  			</tr>
+  			<tr>
+    			<td>Maximum Element Growth Rate</td>
+    			<td>1.35</td>
+    			<td>N/A</td>
+  			</tr>
+  			<tr>
+    			<td>Curvature Factor</td>
+    			<td>0.3</td>
+    			<td>N/A</td>
+  			</tr>
+  			<tr>
+    			<td>Resolution of Narrow Regions</td>
+    			<td>0.85</td>
+    			<td>N/A</td>
+  			</tr>
+			</table>
+		
+		<img src="Circular Comsol.PNG" alt="Circular Comsol" style="width:300px;height:233px;border:0;padding-top:1.5cm;padding-left:1cm;">
+		<br />
+		<h7 style="padding-left:3.2cm;"><font size="3">Circular Assembly</font></h7>
+			
+		</h6>
+		<br />
+		<h6>
+
+			<style>
+			table {
+   			font-family: arial, sans-serif;
+			font-size:15px;
+			max-width: 1200px;
+    			border-collapse: collapse;
+    			width: 65%;
+			       }
+
+			td, th {
+    			border: 2px solid #000000;
+    			
+    			padding: 5px;
+				}
+			</style>
+
+
+			<table style="width:99%">
+  			<tr>
+    			<td colspan="5" align="middle" style=" font-weight:bold;font-family:Georgia;font-size:17px;">Material Properties</td>
+  			</tr>
+  			<tr>
+    			<th align="middle"></th>
+    			<th align="middle">Young's Modulus (Pa)</th>
+    			<th align="middle">Poisson's Ratio</th>
+			<th align="middle">Density (kg/m<sup>3</sup>)</th>
+			<th align="middle">Coefficient of Thermal Expansion</th>
+  			</tr>
+  			<tr>
+    			<th align="middle">Coating / Cells Layer</th>
+    			<th align="middle">500</th>
+    			<th align="middle">0.499</th>
+			<th align="middle">1000</th>
+			<th align="middle">0.05</th>
+  			</tr>
+  			<tr>
+    			<th align="middle">Substrate Layer</th>
+    			<th align="middle">100</th>
+    			<th align="middle">0.499</th>
+			<th align="middle">1000</th>
+			<th align="middle">0.001</th>
+  			</tr>
+			</table>
+			
+			<img src="Circular Total Displacement.PNG" alt="Circular Total Displacement" style="width:480px;height:350px;border:0;padding-top:1cm;" align="left" hspace="6.5" />
+			
+			
+			<img src="Circular von Mises stress.PNG" alt="Circular von Mises stress" style="width:480px;height:350px;border:0;padding-top:1cm;" hspace="9">
+			<figcaption style="padding-left:4.5cm;"><font size="3">Total Displacement
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;
+			Von Mises Stress</font>
+			</figcaption>
+			
+		</h6>
+		<br />
+		<h6>
+			<style>
+			table {
+   			font-family: arial, sans-serif;
+			font-size:15px;
+			max-width: 500px;
+    			border-collapse: collapse;
+    			width: 55%;
+			       }
+
+			td, th {
+    			border: 2px solid #000000;
+    			
+    			padding: 5px;
+				}
+			tr:nth-child(2) {
+    				background-color: #A6ACAF;
+				}
+			tr:nth-child(1) {
+				background-color: #ffcc66;
+				}
+			tr:nth-child(5) {
+				background-color: #ffcc66;
+				}
+			tr:nth-child(6) {
+				background-color: #A6ACAF;
+				}
+
+			</style>
+
+			<table  align="left">
+  			<tr>
+    			<td colspan="3" align="middle" style=" font-weight:bold;font-family:Georgia;font-size:17px;">Dimensions for Rectangular Assembly</td>
+  			</tr>
+  			<tr>
+    			<th align="left"></th>
+    			<th align="middle">Area (micron<sup>2</sup>)</th>
+			<th align="middle">Height (micron)</th>
+  			</tr>
+  			<tr>
+    			<td>Coating / Cells Layer</td>
+    			<td>30000</td>
+			<td>30</td>
+  			</tr>
+  			<tr>
+    			<td>Substrate Layer</td>
+    			<td>30000</td>
+			<td>6</td>
+			</tr>
+
+  			<tr>
+    			<td colspan="3" align="middle" style=" font-weight:bold;font-family:Georgia;font-size:17px;">Meshing Properties for Rectangular Assembly</td>
+  			</tr>
+  			<tr>
+    			<th align="left">Meshing Property</th>
+    			<th align="left">Value</th>
+    			<th align="left">Unit</th>
+  			</tr>
+  			<tr>
+    			<td>Predefined Element Size</td>
+    			<td>Extra Fine</td>
+    			<td>N/A</td>
+  			</tr>
+  			<tr>
+    			<td>Maximum Element Size</td>
+    			<td>14</td>
+    			<td>micron</td>
+  			</tr>
+  			<tr>
+    			<td>Minimum Element Size</td>
+    			<td>0.6</td>
+    			<td>micron</td>
+  			</tr>
+  			<tr>
+    			<td>Maximum Element Growth Rate</td>
+    			<td>1.35</td>
+    			<td>N/A</td>
+  			</tr>
+  			<tr>
+    			<td>Curvature Factor</td>
+    			<td>0.3</td>
+    			<td>N/A</td>
+  			</tr>
+  			<tr>
+    			<td>Resolution of Narrow Regions</td>
+    			<td>0.85</td>
+    			<td>N/A</td>
+  			</tr>
+			</table>
+		
+		<img src="Rectangular Comsol.PNG" alt="Rectangular Comsol" style="width:300px;height:233px;border:0;padding-top:1.5cm;padding-left:1cm;">
+		<br />
+		<h7 style="padding-left:2.8cm;"><font size="3">Rectangular Assembly</font></h7>
+			
+		</h6>
+		<br />
+		<h6>
+
+			<style>
+			table {
+   			font-family: arial, sans-serif;
+			font-size:15px;
+			max-width: 1200px;
+    			border-collapse: collapse;
+    			width: 65%;
+			       }
+
+			td, th {
+    			border: 2px solid #000000;
+    			
+    			padding: 5px;
+				}
+			</style>
+
+
+			<table style="width:99%">
+  			<tr>
+    			<td colspan="5" align="middle" style=" font-weight:bold;font-family:Georgia;font-size:17px;">Material Properties</td>
+  			</tr>
+  			<tr>
+    			<th align="middle"></th>
+    			<th align="middle">Young's Modulus (Pa)</th>
+    			<th align="middle">Poisson's Ratio</th>
+			<th align="middle">Density (kg/m<sup>3</sup>)</th>
+			<th align="middle">Coefficient of Thermal Expansion</th>
+  			</tr>
+  			<tr>
+    			<th align="middle">Coating / Cells Layer</th>
+    			<th align="middle">500</th>
+    			<th align="middle">0.499</th>
+			<th align="middle">500</th>
+			<th align="middle">0.05</th>
+  			</tr>
+  			<tr>
+    			<th align="middle">Substrate Layer</th>
+    			<th align="middle">100</th>
+    			<th align="middle">0.499</th>
+			<th align="middle">500</th>
+			<th align="middle">0.001</th>
+  			</tr>
+			</table>
+			
+			<img src="Rectangular Total Displacement.PNG" alt="Rectangular Total Displacement" style="width:480px;height:350px;border:0;padding-top:1cm;" align="left" hspace="6.5" />
+			
+			
+			<img src="Rectangular von Mises stress.PNG" alt="Rectangular von Mises stress" style="width:480px;height:350px;border:0;padding-top:1cm;" hspace="9">
+			<figcaption style="padding-left:4.5cm;"><font size="3">Total Displacement
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			&nbsp;&nbsp;&nbsp;
+			Von Mises Stress</font>
+			</figcaption>
+			
+		</h6>
+
+		<br /><br /><br />		
+
+		<h5 style="padding-left:2.2cm;font-family:Agency FB">
+		<font size="6">Coordinated Science Laboratory</font>
+		<hr style="max-width:1000px;min-width: 1000px;">
+		</h5>
+
+		<br />
+		<p style="padding-left:2.2cm;max-width:1000px;min-width: 1000px;">
+		<font size="4">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		During my sophomore year, I worked with a group of students for a class project on engineering innovation. We paired up with a start-up company, whose vision was to create low-cost mechanical prosthetic arms for people in the third world countries. 
+		Because these arms were manufactured in-house and assembled manually, our objectives were to help them with streamlining production, so that the company could meet their increasing market demand.
+		<br /><br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		From this class experience, I became interested in learning how engineering could be applied in rehabilitation sciences and utilized by amputees. This led me to the Coordinated Science Laboratory at UIUC. In order to better understand prosthetic controllers, 
+		I joined the lab for an independent summer-long study. Primary, I was involved with testing of rudimentary algorithms that had been developed for prosthetic devices.
+		<br /><br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		I used Baxter, an industrial robot built by Rethink Robotics, to run the relevant tests. As a beginner, I researched on protocols to establish digital communication through TCP/IP in Python. My goal was to devise reciprocal responses simultaneously exchanged between Baxter and the end user from another terminal. 
+		I was able to execute a number of trajectory algorithms through Baxter’s arms, then measure and collect physical coordinates for the respective joints from Baxter’s feedback. This would help with better visualizing the controller parameters in real cases, and more accurately design patient-specific customizations.     
+
+
+		</font>
+		</p>
+	  </div>
+
+
+</body>
+  
+</html>
