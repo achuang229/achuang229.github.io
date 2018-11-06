@@ -43,7 +43,7 @@
 
 			<h4>
 			<a href="index.htm">
-  				<img src="home.png" alt="Return to Home" style="width:52px;height:42px;border:0;">
+  				<img src="home.PNG" alt="Return to Home" style="width:52px;height:42px;border:0;">
 			</a>
 			</h4>
 
@@ -64,7 +64,7 @@
 					  }
 		</style>
 		   <a href="http://www.engineering.pitt.edu/"target="_blank">
-		   <img src="PITT Engineering.png" alt="PITT Engineering" ; align="middle"; style="width:150px;height:50px;border:0;"></a>
+		   <img src="PITT Engineering.PNG" alt="PITT Engineering" ; align="middle"; style="width:150px;height:50px;border:0;"></a>
 		   
 		
 		
@@ -89,7 +89,7 @@
 
 		    
 		   <a href="https://mechanical.illinois.edu/"target="_blank">
-		   <img src="Mechanical Engineering UIUC.png" alt="Mechanical Engineering UIUC" ; align="middle"; style="width:150px;height:50px;border:0;"></a>
+		   <img src="Mechanical Engineering UIUC.PNG" alt="Mechanical Engineering UIUC" ; align="middle"; style="width:150px;height:50px;border:0;"></a>
 		   
 		
 		
@@ -116,7 +116,7 @@
 		</style>		    
 
 		<a href="https://ncees.org/engineering/fe/"target="_blank">
-		<img src="NCEES.png" alt="NCEES" ; align="middle"; style="width:170px;height:60px;border:0;"></a>
+		<img src="NCEES.PNG" alt="NCEES" ; align="middle"; style="width:170px;height:60px;border:0;"></a>
 		<br />
 		
 		
@@ -166,7 +166,7 @@
 			
 			</ul>
 			<a href="Industry Experience.htm" target="_blank">
-			<img src="mucus dispenser CAD screen shot with title.png" alt="mucus dispenser CAD screen shot" ; style="width:490px;height:250px;border:0;padding-top:1.27cm;" align="right" />
+			<img src="mucus dispenser CAD screen shot with title.PNG" alt="mucus dispenser CAD screen shot" ; style="width:490px;height:250px;border:0;padding-top:1.27cm;" align="right" />
 			</a>
 			</h5>
 
