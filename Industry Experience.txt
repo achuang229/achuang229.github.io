@@ -45,7 +45,7 @@
 
 			<h4>
 			<a href="index.htm">
-  				<img src="home.png" alt="Return to Home" style="width:52px;height:42px;border:0;">
+  				<img src="home.PNG" alt="Return to Home" style="width:52px;height:42px;border:0;">
 			</a>
 			</h4>
 
@@ -66,7 +66,7 @@
 		<h5>
 		      About IngMar Medical:
 		      <a href="https://www.ingmarmed.com/"target="_blank">
-		      <img class="top" src="IngMarLogo.png" alt="IngMar Logo" style="width:200px;height:50px;border:0;vertical-align:middle;padding-left:18.5cm;"></a>
+		      <img class="top" src="IngMarLogo.PNG" alt="IngMar Logo" style="width:200px;height:50px;border:0;vertical-align:middle;padding-left:18.5cm;"></a>
 		   
 		</h5>
 		<p>
@@ -90,7 +90,7 @@
 		   
 		<p>
 		    
-		    <img src="IngMar marathon.JPEG" style="width:428px;height:320px;border:0;" align="left"; hspace="7" />
+		    <img src="IngMar marathon.jpeg" style="width:428px;height:320px;border:0;" align="left"; hspace="7" />
                     <a href="https://www.dropbox.com/s/lca7da96e01c58a/Last%20day%20presentation.mp4?dl=0"target="_blank">
 		    <img src="Last-day-presentation.PNG" alt="Last-day-presentation" style="width:438px;height:320px;border:0;" hspace="7" /></a>
 		     
@@ -98,7 +98,7 @@
 
 		<p>
 		    
-		    <img src="IngMar tradeshow.JPG" style="width:450px;height:320px;border:0;" hspace="10" /> 
+		    <img src="IngMar tradeshow.jpg" style="width:450px;height:320px;border:0;" hspace="10" /> 
 		    <img src="RespiSim System.PNG" style="width:420px;height:322px;border:0;" align="left" hspace="5"/>
 		</p>
 		<br /><br /><br />
@@ -317,7 +317,7 @@
 		<h19>
 		      About ASE Group Kaohsiung:
 		      <a href="http://www.asekh.aseglobal.com/"target="_blank">
-		      <img class="top" src="ASE Group logo.png" alt="ASE Group logo" style="width:75px;height:65px;border:0;vertical-align:top;padding-left:14.7cm;position:absolute;"></a>
+		      <img class="top" src="ASE Group logo.PNG" alt="ASE Group logo" style="width:75px;height:65px;border:0;vertical-align:top;padding-left:14.7cm;position:absolute;"></a>
 		</h19>	
 		<br /><br /><br /><br />
 		<p>
@@ -361,7 +361,7 @@
 		<h19>
 		      About ASE Group Kunshan:
 		      <a href="http://www.aseks.aseglobal.com/"target="_blank">
-		      <img class="top" src="ASE Group logo.png" alt="ASE Group logo" style="width:75px;height:65px;border:0;vertical-align:top;padding-left:15.2cm;position:absolute;"></a>
+		      <img class="top" src="ASE Group logo.PNG" alt="ASE Group logo" style="width:75px;height:65px;border:0;vertical-align:top;padding-left:15.2cm;position:absolute;"></a>
 		</h19>	
 
 		<br /><br /><br /><br />
@@ -376,8 +376,8 @@
 		<br /><br />
 		<p>
 			As an assembly process engineering intern, I learned to trace problems in products from a mass manufacturing line that consists of numerous production stations and machines. When I first started this position, very often I was overwhelmed by the abundance of resources available at my hand. There was a time when a great number of semiconductor products came out with unidentified burn marks, which could only be detected with microscope images, hence a long delay until these defects were discovered by engineers.<br /><br />
-			I was entrusted with the responsibility to investigate the exact causes of such defects. Unfortunately, not much information could be found regarding the manufacturing history of these products. Meanwhile, it would be a risk to run the next batch of products through the same manufacturing line. We were in an urgent situation, since we couldn’t pause the work que for too long.<br /><br />
-			My approach to solve this case was by analyzing it concurrently in four directions, where mistakes would most likely take place. Particularly, they were "Human Errors", "Machines", "Materials", and "Methods". After collecting and piecing together all information from these four directions, I transformed them into traceability matrices, and entered these combinations into a statistical program called JMP. With random-pick-and-choose functions, my inputs would be compared against the company’s database recording all the work history of the existing manufacturing stations. By using a self-developed script and this tool, I could derive predictions on a few manufacturing locations that would have the highest probability to fail from the past lessons learned. <br /><br /> 
+			I was entrusted with the responsibility to investigate the exact causes of such defects. Unfortunately, not much information could be found regarding the manufacturing history of these products. Meanwhile, it would be a risk to run the next batch of products through the same manufacturing line. We were in an urgent situation, since we couldnÂ’t pause the work que for too long.<br /><br />
+			My approach to solve this case was by analyzing it concurrently in four directions, where mistakes would most likely take place. Particularly, they were "Human Errors", "Machines", "Materials", and "Methods". After collecting and piecing together all information from these four directions, I transformed them into traceability matrices, and entered these combinations into a statistical program called JMP. With random-pick-and-choose functions, my inputs would be compared against the companyÂ’s database recording all the work history of the existing manufacturing stations. By using a self-developed script and this tool, I could derive predictions on a few manufacturing locations that would have the highest probability to fail from the past lessons learned. <br /><br /> 
 			I used these predicted results to match accordingly with the current case, which turned out to be quite promising. With this information on hand, a lot of time could be saved from making guesses.
 			At the end of this project, I familiarized myself well with how industries running various manufacturing facilities managed quality control and kept an accurate track of manufacturing processes.
 
