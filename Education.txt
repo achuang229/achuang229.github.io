@@ -30,6 +30,7 @@
   				<li><a href="About myself.htm">About myself</a></li><br />
   				<li><a href="Education.htm">Education</a></li><br />
 				<li><a href="MS Thesis.htm">MS Thesis</a></li><br />
+				<li><a href="AI Internship.htm">AI Internship</a></li><br />
   				<li><a href="Industry Experience.htm">Industry Experience</a></li><br />
   				<li><a href="Research Experience.htm">Undergrad Research</a></li><br />
 				<li><a href="https://www.dropbox.com/s/ggtj5u32qtgiauc/Resume_dropbox.pdf?dl=0"target="_blank">Resume</a></li>
