@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>AI Internship</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="mainaiinternship.css">
+
+</head>
+
+<body>
+
+
+	</div>
+	<div class="container">
+
+		<div class="nav">
+  		<h2>My Background</h2><br />
+
+			<style>
+				li a:hover{
+					   background-color:#98AFC7;
+					  }
+
+  				li a:link {
+          				   text-decoration: none;
+	 				  }
+			</style>
+
+  			<ul>
+  				<li><a href="About myself.htm">About myself</a></li><br />
+  				<li><a href="Education.htm">Education</a></li><br />
+				<li><a href="MS Thesis.htm">MS Thesis</a></li><br />
+				<li><a href="AI Internship.htm">AI Internship</a></li><br />
+  				<li><a href="Industry Experience.htm">Industry Experience</a></li><br />
+  				<li><a href="Research Experience.htm">Undergrad Research</a></li><br />
+				<li><a href="https://www.dropbox.com/s/ggtj5u32qtgiauc/Resume_dropbox.pdf?dl=0"target="_blank">Resume</a></li>
+			</ul>
+
+			<style>
+				h4 a:hover{
+					   box-shadow:  0 0 10px #000;
+					  }
+			</style>			
+
+			<h4>
+			<a href="index.htm">
+  				<img src="home.PNG" alt="Return to Home" style="width:52px;height:42px;border:0;">
+			</a>
+			</h4>
+
+		
+
+  	  </div>
+
+	  <div class="main">
+		<font color="black">  
+		<h1>Internship at AI Labs.tw</h1>
+
+		<h5 style="padding-left:2.2cm;font-family:Agency FB">
+		<font size="6">Artificial Intelligence Intern
+
+		<font size="4" style="padding-left:14.6cm;"><i>May 2018 ~ July 2018</i></font></font>
+		<hr style="max-width:1000px;min-width: 1000px; background-color: #17202A; height:1px">
+		
+		</h5>
+		<h5 style="padding-left:2.2cm;max-width:1000px;min-width: 1000px;">
+		<font size="3">
+		About Taiwan AI Labs:
+		<a href="https://ailabs.tw/"target="_blank">
+		<img class="top" src="TaiwanAILabs.PNG" alt="TaiwanAILabs Logo" style="width:190px;height:50px;border:0;vertical-align:middle;padding-left:21.5cm;"></a>
+		<br><br>
+		<p style="max-width:1000px;min-width: 1000px;">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taiwan AI Labs (AILabs.tw) is a privately funded research organization based in Taipei, and led by Ethan Tu, 
+		a former principal development manager at Microsoft. He is also well-known as the founder of PTT, one of the most 
+		influential online forums in Taiwan. At AILabs.tw, our focused areas are healthcare, smart city, and human interaction, assigned to respective teams of engineers 
+		from diverse professional backgrounds.
+		<br><br><br>
+		
+		My role at Taiwan AI Labs:
+		<br><br>
+		<li>Devised control of a nano quadcopter (Crazyflie) using ultrasonic sensor feedback to achieve obstacle avoidance</li>
+		<br>
+		</p>
+		</font>
+		</h5>
+		
+		<span style="padding-left:2cm;padding-top:0.6cm;width:70%;">
+		<img src="Crazyflie with arduino.jpg" alt="Crazyflie with arduino" style="width:265px;height:200px;border:0">
+		</span>
+		<span style="padding-left:2cm;padding-top:6.2cm;width:70%;">
+		<img src="ultrasonic sensor.jpg" alt="ultrasonic sensor" style="width:127px;height:125px;border:0">
+		</span>
+		<span style="padding-left:5.65cm;padding-top:6.2cm;width:70%;">
+		<img src="ultrasonic sensor range.PNG" alt="ultrasonic sensor range" style="width:127px;height:125px;border:0">
+		</span>
+
+		<span style="padding-left:2cm;padding-top:9.8cm;width:70%;height:75%;">
+		
+		<style>
+		
+		table {
+  			font-family: arial, sans-serif;
+ 			border-collapse: collapse;
+			max-width: 300px;
+			min-width: 150px;
+			width:51%;
+			max-height:20%
+			min-height:50%
+		       }
+
+		td, th {
+  			border: 2px solid #17202A;
+  			text-align: left;
+  			padding: 1px;
+			}
+
+		tr:nth-child(even) {
+  			background-color: #58D68D;
+			}
+		</style>
+		<table>
+  		<tr>
+    		<th>Sensor Type</th>
+    		<th>Ultrasound</th>
+
+  		</tr>
+  		<tr>
+    		<td>Range</td>
+    		<td>2-400cm</td>
+  
+  		</tr>
+  		<tr>
+    		<td>Accuracy</td>
+    		<td>Up to 3mm</td>
+
+  		</tr>
+  		<tr>
+    		<td>Repetition Rate</td>
+    		<td>40 Hz</td>
+
+  		</tr>
+  		<tr>
+    		<td>Wave</td>
+    		<td>40 kHz</td>
+
+  		</tr>
+  		<tr>
+    		<td>Interface</td>
+    		<td>digital</td>
+ 
+  		</tr>
+  		<tr>
+    		<td>Operating Power</td>
+    		<td>5V DC</td>
+
+  		</tr>
+  		<tr>
+    		<td>Weight</td>
+    		<td>10 g</td>
+
+  		</tr>
+  		<tr>
+    		<td>Price</td>
+    		<td>$3.95</td>
+
+  		</tr>
+		</table>
+		</span>
+		<style>
+
+		</style>
+		<span style="padding-left:9.3cm;padding-top:0.6cm;width:70%">
+		<img src="Crazyflie gif.gif" alt="Crazyflie" style="width:67%;height:548px;border:0;">
+		</span>
+		
+		<span style="padding-left:18.8cm;width:30%;">
+		<font style="padding-left:1.2cm" size="4"><b>Algorithm at a high level(Python)</b></font>
+		<font color="white" size="2" style="width: 66.5%; height:550px;">
+		<br>
+		<div style="background-color:#17202A; text-align:left; vertical-align: middle;width: 66.5%; height:550px">
+		<br>
+		<font style="padding-left:1cm"; color="orange">import</font> serial<br>
+		<font style="padding-left:1cm"; color="orange">import</font> threading<br>
+		<font style="padding-left:1cm"; color="orange">import</font> time<br>
+		<font style="padding-left:1cm"; color="orange">import</font> Crazyflie library<br>
+		<font style="padding-left:1cm">URL=<font color="green">"Crazyflie address"</font></font><br>
+		<font style="padding-left:1cm">serial.Serial(<font color="green">'COM_Port'</font>,<font color=#5DADE2>&nbsp;Baud_Rate</font>)</font>
+		<br>
+		<br>
+		<font style="padding-left:1cm"; color="orange">Class</font> Threading_between_two_loops
+		<br><br>
+		<font style="padding-left:2cm"><font color="orange">def</font><font color="magenta"> __init__:</font></font>
+		<br><br>
+		       <font style="padding-left:2.8cm">Syncronize with Crazyflie</font>
+		       <br>
+		       <font style="padding-left:2.8cm">Take off</font>
+		<br><br>
+		<font style="padding-left:2cm"><font color="orange">def</font><font color="#F4D03F"> infinite_loop_1:</font></font>
+		<br><br>
+		       <font style="padding-left:2.8cm" color="orange">While True:</font>
+		       <br><br>
+				<font style="padding-left:3.4cm">Crazyflie motion commands</font>
+		<br><br>
+		<font style="padding-left:2cm"><font color="orange">def</font><font color="#F4D03F"> infinite_loop_2:</font></font>
+		<br><br>
+
+		       <font style="padding-left:2.8cm" color="orange">While True:</font>
+		       <br><br>
+				<font style="padding-left:3.4cm">Read and register sensor data</font>
+		<br>
+		<br>
+		<font style="padding-left:1cm"; color="orange">if</font>__name__ == <font color="green">'__main__'</font>:
+		<br>
+		<br>
+		<font style="padding-left:2cm">open Class</font>
+		<br>
+		<br>
+		<font style="padding-left:2.8cm" color="orange">While True</font>:
+		<br><br>
+			<font style="padding-left:3.3cm">
+			thread_infinite_loop_1.start()
+			</font>
+			<br>
+			<font style="padding-left:3.3cm">
+			thread_infinite_loop_2.start()
+			</font>
+			<br>
+			<font style="padding-left:3.3cm">
+			input("Take off")
+			</font>
+		<br>
+		<br>
+		</div>
+		</font>
+		</span>
+		<br>
+		<h5 style="padding-top:16.5cm; padding-left:2.2cm;">
+		<font size="3">
+		<li>Built and tested DJI F450 GPS Drone used for running algorithms under development</li>
+		</font>
+		</h5>
+		
+		<br>
+		<span style="padding-left:2cm;">
+		<embed src="Drone Assembly Manual_arthur chuang.pdf" width="580px" height="750px" />
+		</span>
+
+		<h7 style="padding-left:17.6cm;padding-top:1.5cm;">
+		<video width="420" height="352" controls>
+			<source src="DJI video.mp4" type="video/mp4">
+		</video>
+		<br>
+		<br>
+		<br>
+		<font size="3" style="padding-left:21cm;">
+		<b>The Quadcopter team</b>
+		</font>
+		<br>
+		<img src="Quadcopter team.jpg" alt="Quadcopter team" style="padding-left:17.6cm;padding-top:0.2cm;  width:425px;height:330px;border:0">
+		</h7>
+		
+		<h5 style="padding-left:2cm;padding-top:1.5cm;">
+		<font size="3">
+		<li><b>Established communication via MAVLink with Pixhawk Flight Controller to fly a quadcopter from a ground station.</b></li>
+		</font>
+		</h5>
+		
+		<span style="padding-left:2cm;padding-top:0.5cm;">
+		<img src="pixhawk.png" alt="pixhawk" style="width:320px;height:350px;border:0">
+		</span>
+
+		
+		<span style="padding-left:11.8cm;padding-top:0.6cm; min-width:648px;  max-width:648px; line-height: 1.7;">
+		<b>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because our goal was to implement a variety of sensors that would increase the drone's
+		degree of automation, we needed a communication protocol where inputs of external devices can be added and recognized by the drone. MAVLink 
+		helped us with this job. It is a protocol for communicating with a off-the-shelf flight controller, Pixhawk, boxed in green as shown in
+		the picture on the left. Pixhawk can be connected either via USB, where data streams through a COM port, or wirelessly by an IP address.<br><br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We began by writing a test script that commanded the drone to arm, disarm, sleep for a few seconds, then arm again. The purpose of this 
+		initial test was not only to test the the connection between user input and Pixhawk, but also to ensure that all four rotors would turn properly. We also tested the reading of other parameters
+		through this protocol, including the drone's battery life, GPS, altitude, and so on.     
+		</b>
+		</span>
+
+
+		<h5 style="padding-left:2cm;padding-top:12cm;">
+		<font size="3">
+		<li><b>Customized quadcopter frame to accommodate installations of sensors, camera, and NVIDIA Jetson TX2 on board</b></li>
+		</font>
+		</h5>
+		<br>
+		<br>
+
+		<span style="padding-left:2cm; min-width:1020px; max-height:600px">
+  		<img class="mySlides" src="Bottom_Left.jpg" style="width:100%">
+  		<img class="mySlides" src="Btn_Back_Bottom_Left.jpg" style="width:100%">
+  		<img class="mySlides" src="Btn_Back_Right_Bottom.jpg" style="width:100%">
+  		<img class="mySlides" src="Btn_Bottom_Front.jpg" style="width:100%">
+		<img class="mySlides" src="Btn_Left_Front.jpg" style="width:100%">
+		<img class="mySlides" src="Btn_Left_Top_pixhawk angle.jpg" style="width:100%">
+		<img class="mySlides" src="Btn_Top_Front.jpg" style="width:100%">
+		<img class="mySlides" src="Btn_Top_Front_2.jpg" style="width:100%">
+		<img class="mySlides" src="Front.jpg" style="width:100%">
+		<img class="mySlides" src="Left.jpg" style="width:100%">
+		<img class="mySlides" src="Left_pixhawk angle.jpg" style="width:100%">
+		<img class="mySlides" src="Top.jpg" style="width:100%">
+		<img class="mySlides" src="Top_Right.jpg" style="width:100%">
+		<img class="mySlides" src="Right_Bottom.jpg" style="width:100%">		
+		<img class="mySlides" src="Right_pixhawk angle.jpg" style="width:100%">
+
+
+  		<button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  		<button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+
+		<script>
+		var slideIndex = 1;
+		showDivs(slideIndex);
+		function plusDivs(n) {
+  		showDivs(slideIndex += n);
+		}
+
+		function showDivs(n) {
+  		var i;
+  		var x = document.getElementsByClassName("mySlides");
+  		if (n > x.length) {slideIndex = 1}
+  		if (n < 1) {slideIndex = x.length}
+  		for (i = 0; i < x.length; i++) {
+    		x[i].style.display = "none";  
+  		}
+  		x[slideIndex-1].style.display = "block";  
+		}
+		</script>
+		</span>
+	
+
+		<h5 style="padding-left:2cm;padding-top:15.5cm;">
+		<font size="3">
+		<li><b>Designed and developed a safe indoor lab to test-fly experimental drones.</b></li>
+		</font>
+		</h5>
+
+		<span style="padding-left:2cm;padding-top:0.5cm;">
+		<img src="lab 1.jpg" alt="lab 1" style="width:270px;height:230px;border:0">
+		</span>
+
+		<span style="padding-left:9.3cm;padding-top:0.5cm;">
+		<img src="lab 2.jpg" alt="lab 2" style="width:230px;height:230px;border:0">
+		</span>
+
+		<span style="padding-left:15.55cm;padding-top:0.5cm;">
+		<img src="lab 3.jpg" alt="lab 3" style="width:250px;height:230px;border:0">
+		</span>
+
+		<span style="padding-left:22.3cm;padding-top:0.5cm;">
+		<img src="lab 4.jpg" alt="lab 4" style="width:250px;height:230px;border:0">
+		</span>
+
+	 </div>
+
+
+
+
+</body>
+  
+</html>
