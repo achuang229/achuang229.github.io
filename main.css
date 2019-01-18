@@ -74,4 +74,10 @@ video {
 }
 
 
+span {
+  position:absolute;
+  min-width: 520px;
+  max-width: 520px;
+  text-align:justify;
+     }
 
